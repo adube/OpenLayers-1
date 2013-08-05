@@ -3,7 +3,6 @@ MapServer UTFGrid can be used.
 
 For informations on copyrights and how to use/install OpenLayers:
 [OpenLayers' git](https://github.com/openlayers/openlayers)
-[OpenLayers' website](https://github.com/openlayers/openlayers)
 
 OpenLayers versions with WMS support for UTFGrid. 
 
